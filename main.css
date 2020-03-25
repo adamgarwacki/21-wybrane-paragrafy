@@ -2,6 +2,7 @@ p {
     width: 100px;
     height: 100px;
     background-color: rgb(148, 139, 124);
+    font-family: 'Muli', sans-serif;
 }
 
 div :nth-child(3) {
